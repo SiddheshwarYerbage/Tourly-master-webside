@@ -1,56 +1,41 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
+🌍 Tourly Master – Travel & Tour Booking Website // making clone webside
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+A modern and responsive Travel & Tour Booking Website built using HTML, CSS, and JavaScript. Tourly Master provides users with an engaging platform to explore travel destinations, tour packages, and booking options.
 
-  <h2 align="center">Tourly - Travel website</h2>
+📖 Description
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+Tourly Master is a front-end travel website designed to showcase popular destinations and tour packages with an attractive and user-friendly interface.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+This project focuses on responsive design, smooth UI layout, structured content sections, and interactive elements to simulate a real-world travel booking platform.
 
-</div>
+It demonstrates strong front-end development skills and UI/UX design principles.
+🚀 Features
+🏝️ Explore popular travel destinations
+📦 View tour packages
+📝 Booking form section
+📱 Fully responsive layout
+🎨 Attractive hero section with images
+🔗 Navigation bar with smooth scrolling
 
-<br />
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Responsive Design (Media Queries)
 
-### Demo Screeshots
+📂 Project Structure
+tourly-master/
+│
+├── index.html        # Main webpage
+├── style.css         # Styling file
+├── script.js         # Interactivity
+├── assets/           # Images & media
+└── README.md         # Documentation
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Tourly** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/tourly.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+🎯 Learning Outcomes
+Responsive website design
+Layout structuring
+Navigation implementation
+Interactive UI components
+Real-world landing page design
